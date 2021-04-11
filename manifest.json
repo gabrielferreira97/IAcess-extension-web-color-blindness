@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "cores.js", "recarregar.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "jquery.min.js", "cores.js", "popup.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Esta extensão foi desenvolvida para pessoas que possuem alguma dificuldade de distinguir cores, sendo elas problemas acromáticas ou cromáticas de daltonismo (protanopia, tritanopia, deuteranopia, etc.).",
+   "icons": {
+      "128": "icon.png"
+   },
+   "manifest_version": 2,
+   "name": "IAcess - Vivencie o Mundo!",
+   "short_name": "IAcess",
+   "permissions": [ "tabs", "storage", "http://*/*", "https://*/*" ],
+   "version": "2.0"
+}
