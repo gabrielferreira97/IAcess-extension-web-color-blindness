@@ -30,7 +30,7 @@ This extension features all the latest tools and practices in web development!
 4. Click upload without compression
 5. Select a mass from the extension and click select
 
-### Em PT-BR
+------------------
 
 1. No computador, abra o Chrome.
 2. No canto superior direito, clique em  <img src="https://lh3.googleusercontent.com/E2q6Vj9j60Dw0Z6NZFEx5vSB9yoZJp7C8suuvQXVA_2weMCXstGD7JEvNrzX3wuQrPtL=w36-h36" alt="mais"> Mais ferramentas e Extensões.
