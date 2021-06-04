@@ -9,6 +9,7 @@ IAcess - Vivencie o Mundo!
 <p align="center">Esta extensão foi desenvolvida para pessoas que possuem alguma dificuldade de distinguir cores, sendo elas problemas acromáticas ou cromáticas de daltonismo (protanopia, tritanopia, deuteranopia, etc.).</p>
 
 <p align="center">
+   <img src="https://github.com/gabrielferreira97/IAcess-extension-web-color-blindness-google/blob/main/print.PNG?raw=true" alt="IAcess" width="500">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
