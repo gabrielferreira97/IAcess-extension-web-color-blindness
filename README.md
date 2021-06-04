@@ -10,6 +10,9 @@ IAcess - Vivencie o Mundo!
 
 <p align="center">
    <img src="https://github.com/gabrielferreira97/IAcess-extension-web-color-blindness-google/blob/main/print.PNG?raw=true" alt="IAcess" width="500">
+</p>
+
+<p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
